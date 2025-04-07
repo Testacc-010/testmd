@@ -175,7 +175,7 @@ consulted:
 <th style="text-align: left;"><blockquote>
 <p><strong>Associated organization</strong></p>
 </blockquote></th>
-<th style="text-align: left;"><blockquote>
+<p><strong>Type of organization</strong></p>
 </tr>
 </thead>
 <tbody>
