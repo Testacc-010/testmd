@@ -177,7 +177,6 @@ consulted:
 </blockquote></th>
 <th style="text-align: left;"><blockquote>
 <th><strong>Type of organization</strong></th>
-</blockquote></th>
 </tr>
 </thead>
 <tbody>
